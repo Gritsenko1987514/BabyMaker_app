@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="12F37" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="FaceImages" representedClassName="FaceImages" syncable="YES">
+        <attribute name="angleBetweenEyes" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="chinCentre" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="faceImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageCentre" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="leftEyeAngle" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="leftEyeCentre" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="leftEyeRefDistance" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="mouthAngle" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="mouthCentre" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mouthRefDistance" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="rightEyeAngle" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="rightEyeCentre" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rightEyeRefDistance" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="widthBetweenEyes" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="FaceImages" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

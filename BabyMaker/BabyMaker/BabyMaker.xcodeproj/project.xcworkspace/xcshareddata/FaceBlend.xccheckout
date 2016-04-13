@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF693A56-E038-4CBC-A16F-AB9D7C6D1FE8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FaceBlend</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D3D240F6-BAD8-40BB-9523-804594F2D378</key>
+		<string>ssh://codebase.qburst.com/akhildas/faceblend_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FaceBlend/FaceBlend.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D3D240F6-BAD8-40BB-9523-804594F2D378</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://codebase.qburst.com/akhildas/faceblend_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3D240F6-BAD8-40BB-9523-804594F2D378</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3D240F6-BAD8-40BB-9523-804594F2D378</string>
+			<key>IDESourceControlWCCName</key>
+			<string>faceblend_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

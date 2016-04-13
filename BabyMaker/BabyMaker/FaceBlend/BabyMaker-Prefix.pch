@@ -1,0 +1,25 @@
+//
+// Prefix header for all source files of the 'FaceBlend' target in the 'FaceBlend' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Chartboost.h"
+#endif
+
+#define CHARTBOOST_APP_ID @"528b6b6617ba47ba5500003c"
+#define CHARTBOOST_APP_SIGNATURE @"4a2f807c71cd71b708b657d614ddf36a2a6bab09"
+
+#if DEBUG_CODE
+#define debugLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#define debugLog( s, ... )
+#endif
